@@ -1,5 +1,5 @@
 {
-  "name": "xml2json",
+  "name": "node-xml2jsonparser",
   "version": "0.1.0",
   "description": "Simple xml to json parser using regexp, made for test purposes",
   "main": "./lib/xml2json.js",
