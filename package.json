@@ -15,7 +15,12 @@
     "parser"
   ],
   "author": "Vincent Fahrenholz <vincent@fahrenholz.eu> (http://www.fahrenholz.eu/)",
-  "license": "MIT",
+  "licenses": [
+  	{
+  		"type":"MIT",
+  		"url": "https://github.com/Fahrenholz/xml2json/blob/master/LICENSE"
+  	}
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/Fahrenholz/xml2json.git"
