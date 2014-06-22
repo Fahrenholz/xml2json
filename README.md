@@ -1,4 +1,4 @@
-xml2json (v. 0.1.0)
+node-xml2jsonparser (v. 0.1.0)
 ========
 
 I made this simple XML to JSON parser for nodeJs for test purposes. It is yet working, but won't be the tool of your choice if you have something more complicated to do
