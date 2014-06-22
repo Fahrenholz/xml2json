@@ -1,0 +1,26 @@
+{
+  "name": "xml2json",
+  "version": "0.0.0",
+  "description": "Simple xml to json parser. I made it for test purposes",
+  "main": "./lib/xml2json.js",
+  "directories" : {
+    "lib": "./lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "xml",
+    "json",
+    "parser"
+  ],
+  "author": "Vincent Fahrenholz <vincent@fahrenholz.eu> (http://www.fahrenholz.eu/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Fahrenholz/xml2json.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fahrenholz/xml2json/issues"
+  }
+}

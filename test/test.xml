@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<books>
+	<!-- Test comment -->
+	<book isbn="3-7957-2811-8">
+		<title>Was man über Musik wissen muss</title>
+		<subtitle>Musiklehre für jedermann</subtitle>
+		<author>Willy Schneider</author>
+		<lent/>
+	</book>
+	<book isbn="978-3-7957-2812-0">
+		<title>Elementare Musiklehre</title>
+		<subtitle>Übungen für jedermann</subtitle>
+		<author>Willy Schneider</author>
+		<lent date="2014-03-01 13:00:00" />
+	</book>
+</books>
