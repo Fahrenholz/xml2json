@@ -7,7 +7,7 @@ I made this simple XML to JSON parser for nodeJs for test purposes. It is yet wo
 
 to use it, you must install it via npm
 ```bash
-  $ npm install xml2json
+  $ npm install node-xml2jsonparser
 ```
 after that, simply require it:
 
